@@ -3,7 +3,7 @@ This repo will deploy production ready AWS EKS cluster using terraform.
 ### Provisioning EKS Cluster
 - Clone the repo 
 ```cython
-  git clone https://github.com/ishubhoshaha/eks-cluster.git
+  git clone (https://github.com/francisblessed/EKS-Cluster.git)
 ```
 - Go to `eks-cluster` directory and initialize terraform
 ```cython
